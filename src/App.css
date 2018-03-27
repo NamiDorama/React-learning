@@ -1,0 +1,16 @@
+body {
+  overflow: scroll;
+}
+
+.App {
+  text-align: center;
+}
+
+.red {
+  color: #ff7a11;
+  text-shadow: 2px 2px 5px #ffa06a;
+}
+
+.bold {
+  font-weight: 600;
+}
